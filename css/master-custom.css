@@ -38,13 +38,13 @@
 .msp-cn-2-2 { font-family:"Courgette";font-weight:normal;font-size:115px;line-height:normal;color:#ffffff; } 
 
 .ms-parent-id-1 > .master-slider{ background:#f3f3f3; }
-.msp-cn-1-1 { font-family:"Dancing Script";font-weight:normal;font-size:65px;line-height:normal;color:#ffd44c; } 
-.msp-cn-1-2 { font-family:"Courgette";font-weight:normal;font-size:170px;line-height:normal;color:#ffffff; } 
-.msp-cn-1-3 { font-family:"Courgette";font-weight:normal;font-size:107px;line-height:normal;color:#ffd44c; } 
-.msp-cn-1-4 { font-family:"Dancing Script";font-weight:normal;font-size:27px;line-height:normal;color:#f0d99b; } 
-.msp-cn-1-7 { font-family:"Dancing Script";font-weight:normal;font-size:55px;line-height:normal;color:#ffd44c; } 
-.msp-cn-1-8 { font-family:"Dancing Script";font-weight:normal;font-size:149px;line-height:normal;color:#ffffff; } 
-.msp-cn-1-9 { font-family:"Courgette";font-weight:normal;font-size:60px;line-height:normal;color:#efe1ac; } 
-.msp-cn-1-17 { font-family:"Dancing Script";font-weight:normal;font-size:55px;line-height:normal;color:#ffd44c; } 
-.msp-cn-1-18 { font-family:"Dancing Script";font-weight:normal;font-size:132px;line-height:normal;color:#ffffff; } 
-.msp-cn-1-19 { font-family:"Courgette";font-weight:normal;font-size:60px;line-height:normal;color:#efe1ac; } 
+.msp-cn-1-1 { font-family:"Dancing Script";font-weight:normal;font-size:65px;line-height:normal;color:#ffd44c; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-2 { font-family:"Courgette";font-weight:normal;font-size:170px;line-height:normal;color:#ffffff; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-3 { font-family:"Courgette";font-weight:normal;font-size:107px;line-height:normal;color:#ffd44c; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-4 { font-family:"Dancing Script";font-weight:normal;font-size:27px;line-height:normal;color:#f0d99b; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-7 { font-family:"Dancing Script";font-weight:normal;font-size:55px;line-height:normal;color:#ffd44c; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-8 { font-family:"Dancing Script";font-weight:normal;font-size:149px;line-height:normal;color:#ffffff; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-9 { font-family:"Courgette";font-weight:normal;font-size:60px;line-height:normal;color:#ffffff; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-17 { font-family:"Dancing Script";font-weight:normal;font-size:55px;line-height:normal;color:#ffd44c; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-18 { font-family:"Dancing Script";font-weight:normal;font-size:132px;line-height:normal;color:#ffffff; text-shadow: 0px 0px 14px black;} 
+.msp-cn-1-19 { font-family:"Courgette";font-weight:normal;font-size:60px;line-height:normal;color:#ffffff; text-shadow: 0px 0px 14px black;} 
